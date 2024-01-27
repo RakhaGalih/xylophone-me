@@ -1,5 +1,4 @@
 # My Xylophone App
-## Made with ❤️ by Rakha
 🎹 <b>Virtual Xylophone:</b>
 
 Experience the thrill of playing a real xylophone anytime, anywhere. With authentic sound and touch responsiveness, you'll be amazed by the lifelike experience My Xylophone App offers.
@@ -21,5 +20,5 @@ Here is the preview:
 
 https://github.com/RakhaGalih/xylophone-me/assets/54633534/bae49356-9a56-4ea4-98bb-fda43282a993
 
+<b>Made with ❤️ by Rakha. Please enjoy!</b>
 Design inspired by : Ben Lee
-### Please enjoy!
