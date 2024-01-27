@@ -3,13 +3,13 @@
 
 Experience the thrill of playing a real xylophone anytime, anywhere. With authentic sound and touch responsiveness, you'll be amazed by the lifelike experience My Xylophone App offers.
 
-.
+<br>
 
 🎼 <b>Jam-packed Fun: </b>
 
 Play your favorite melodies or freestyle to your heart's content. With a rainbow of notes at your disposal, the possibilities for creating harmonious magic are endless.
 
-.
+<br>
 
 📱 <b>Intuitive Interface: </b>
 
